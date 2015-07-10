@@ -9,7 +9,8 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
 	ifstream myInfile;
 	myInfile.open("tweet_input.txt");
 	string word, line;
